@@ -1,0 +1,99 @@
+#bg{
+    background-color: rgb(48, 33, 61);
+}
+.headStyle{
+    background-color:#e4b828;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+
+}
+.titlestyle{
+    margin-top: 15px;
+}
+.headCode{
+    margin-right: 25px;
+}
+.btn-lg{
+    font-size: small;
+}
+.headText{
+    text-align: center;
+}
+.btnStyle{
+    margin-left: 15%;
+
+}
+.topSlider{
+    height: 250px;
+}
+.card-img-top{
+    padding: 10px;
+    border-radius: 20px;
+}
+.section-title{
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.textcolor{
+    color: rgb(255, 255, 255);
+}
+.sliderText{
+   
+    margin-top: 40px;
+    font-weight:700; 
+    text-align:center; 
+    white-space: normal;
+    color: rgb(255, 255, 255);
+
+}
+.techerstyle{
+    margin-bottom: 50px;
+}
+
+.Pmessage{
+    margin-top: 100px;
+}
+
+.livetext{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.slideText{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: small;
+    background-color: #d6ac22;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  ul li{
+      color: white;
+  }
+.text-style{
+    text-align: justify;
+
+}
+
+#more{
+
+    display: none;
+}
+
+ .footer-style{
+      background-color: #d6ac22;
+      margin-top: 25px;
+  }
+
+  .footer-body{
+      margin-top: 25px;
+      margin-left: 15px;
+  }
+
+  .footertext{
+      margin-top: 15px;
+  }
